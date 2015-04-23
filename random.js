@@ -6,3 +6,4 @@ if (numero <= 0.5){
 else{
 	console.log('\n' + numero + ' Mayor que 0.5 \n');
 }
+console.log('version 2.0')
